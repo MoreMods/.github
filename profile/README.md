@@ -1,2 +1,2 @@
 ## Hi there 👋
-We are MoreMods - Minecraft mod and plugin-makers
+### We are MoreMods - ⛏Minecraft modders and plugin-makers
